@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "generato": "2026-11-21",
+  "fonte": {
+    "testo": "© OpenStreetMap contributors (ODbL); tessere Protomaps basemap; glifi Noto Sans (OFL)",
+    "licenza": "LICENZA.md"
+  },
+  "citta": {
+    "bari": {
+      "bbox": [
+        16.83829,
+        41.01464,
+        16.91348,
+        41.13022
+      ],
+      "z": [
+        10,
+        15
+      ],
+      "tessere": "bari/{z}/{x}/{y}.pbf",
+      "n": 172,
+      "byte": 2760130,
+      "build": "20261120"
+    }
+  },
+  "glifi": "glifi/{fontstack}/{range}.pbf",
+  "sedi": {
+    "file": "sedi.d9722c81.geojson",
+    "sha256": "d9722c81649a6ccae306fa444b75ccf7f36f4bc255a3b1d63d58b2b746df21b5"
+  }
+}
